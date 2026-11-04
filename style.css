@@ -4,3 +4,39 @@ h1 { color: #ff2e93; text-shadow: 2px 2px 0 #7fdbff; margin: 0 0 .5rem; }
 nav a { margin: 0 .75rem; color: #ff2e93; font-weight: bold; text-decoration: none; }
 main { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
 footer { text-align: center; padding: 1.5rem; background: linear-gradient(135deg, #f5f5f5, #b9c0c9, #f5f5f5); border-top: 4px solid #7fdbff; }
+/* About Page Styling */
+
+main {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+main section {
+    max-width: 850px;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: #fff0f6;
+    border: 2px solid #f3a6c8;
+    border-radius: 15px;
+}
+
+main h2 {
+    color: #d63384;
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+
+main h3 {
+    color: #8e4585;
+}
+
+main p {
+    color: #444;
+    line-height: 1.8;
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
