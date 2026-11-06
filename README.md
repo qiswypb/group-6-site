@@ -1,3 +1,4 @@
+
 # GLAM.exe – Y2K Fashion Store
 
 ## Project Overview
@@ -43,3 +44,17 @@ group-6-site/
 ## Project Status
 
 Currently under development.
+
+
+## Individual Reflections
+
+### Aleeyah
+
+Throughout this project, I was responsible for creating the About page and the Y2K fashion gallery for our GLAM.exe website. I learned how to use Git and GitHub to manage my work, create branches, commit changes, push my work and submit Pull Requests for review. I also learned the importance of teamwork and communication when working on the same project. One challenge I faced was making sure my changes were properly reviewed and merged without affecting the website. Overall, this project helped me improve my coding skills and understand how Git collaboration works in a team.
+
+### Qistina
+To be added.
+
+### Zuhairah
+To be added.
+
