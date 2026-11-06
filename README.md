@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-GLAM.exe is a Y2K-inspired online fashion store created as part of our group assignment. Our website showcases fashion products and provides visitors with information about our brand.
+GLAM.exe is a Y2K-inspired online fashion store that showcases trendy clothing and accessories influenced by the early 2000s fashion era. The website aims to provide users with an interactive and visually appealing shopping experience, featuring different fashion styles, product categories and information about the store. It is designed using HTML and CSS to create a simple, user-friendly platform that reflects the unique and nostalgic aesthetic of Y2K fashion.
 
 ## Technologies Used
 
