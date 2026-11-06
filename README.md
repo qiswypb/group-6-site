@@ -56,5 +56,5 @@ Throughout this project, I was responsible for creating the About page and the Y
 To be added.
 
 ### Zuhairah
-To be added.
+Throughout this project, I contributed by developing the Contact page for GLAM.exe, which included a contact form with name, email and message fields, as well as the group's email and Instagram information. I learned how to use Git and GitHub to collaborate with my teammates by creating branches, committing and pushing changes, submitting Pull Requests, reviewing work and merging approved changes into the main branch. One challenge our team overcame was combining everyone's work from different branches, which we managed by communicating, reviewing changes and resolving merge conflicts. This project improved my understanding of website development, teamwork and version control.
 
