@@ -1,5 +1,3 @@
- HEAD
-
 # GLAM.exe – Y2K Fashion Store
 
 ## Project Overview
@@ -8,15 +6,13 @@ GLAM.exe is a Y2K-inspired online fashion store created as part of our group ass
 
 ## Technologies Used
 
-- HTML5 – Used to structure the webpages.
-- CSS3 – Used to style the website.
-- *Git* – Used to track changes and manage the project files.
-- *GitHub* – Used to store the project online, collaborate with teammates and review changes through Pull Requests.
-- *Laravel Herd* – Used to run the website locally with a secure HTTPS link.
+- **HTML5** – Used to structure the webpages.
+- **CSS3** – Used to style the website.
+- **Git** – Used to track changes and manage project files.
+- **GitHub** – Used to store the project online, collaborate with teammates and review changes through Pull Requests.
+- **Laravel Herd** – Used to run the website locally with a secure HTTPS link.
 
 ## Website Pages
-
-Our website contains three main pages:
 
 | Page | Description | Person in Charge |
 |---|---|---|
@@ -26,17 +22,11 @@ Our website contains three main pages:
 
 ## Group Members and Responsibilities
 
-- *Qistina* – Responsible for developing the Home page and coordinating the group project.
-- *Aleeyah* – Responsible for developing the About Us page and Y2K fashion gallery.
-- *Zuhairah* – Responsible for developing the Contact page.
+- **Qistina** – Responsible for developing the Home page and coordinating the group project.
+- **Aleeyah** – Responsible for developing the About Us page and Y2K fashion gallery.
+- **Zuhairah** – Responsible for developing the Contact page.
 
 All members contributed to the project by communicating, reviewing changes and working together through GitHub.
-
-## Group Members
-
-- Eyah
-- Qis
-- Zuh
 
 ## Project Structure
 
@@ -49,17 +39,66 @@ group-6-site/
 └── README.md
 ```
 
-## How to Run
+## How to Run the Website
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Double-click `index.html`.
-4. The website will open in your web browser.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/qiswypb/group-6-site.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd group-6-site
+   ```
+
+3. Link the project using Laravel Herd:
+
+   ```bash
+   herd link
+   ```
+
+4. Secure the local website:
+
+   ```bash
+   herd secure group-6-site
+   ```
+
+5. Open the website using:
+
+   `https://group-6-site.test`
+
+## Git Collaboration Workflow
+
+Our group used Git and GitHub to work together on the website.
+
+1. Each member created a separate feature branch.
+2. Members made changes to their assigned webpages.
+3. Changes were saved using Git commits.
+4. Each member pushed their branch to GitHub.
+5. Pull Requests were created to propose changes to the main branch.
+6. Group members reviewed the changes before approving and merging them.
+
+## Pull Requests
+
+The following Pull Requests were used during the development of our website:
+
+- [PR #2 – Add Y2K About Us Page](https://github.com/qiswypb/group-6-site/pull/2)
+- [PR #3 – Add Vintage Y2K Fashion Gallery](https://github.com/qiswypb/group-6-site/pull/3)
+- [PR #7 – Add Aleeyah's Individual Reflection](https://github.com/qiswypb/group-6-site/pull/7)
+- [PR #9 – Add Personal Reflection to README](https://github.com/qiswypb/group-6-site/pull/9)
+- [PR #10 – Update Homepage Layout and Resolve Merge Conflicts](https://github.com/qiswypb/group-6-site/pull/10)
+
+## Merge Conflict Resolution
+
+During the project, our group encountered a merge conflict in `README.md` and `style.css` while combining changes from different branches.
+
+We compared the conflicting changes, kept the required content and styling, and resolved the conflicts before completing the merge. This helped us understand how Git handles conflicting changes during collaboration.
 
 ## Project Status
 
-The GLAM.exe website was developed as part of our group assignment. The project demonstrates our understanding of basic website development, Git commands, GitHub collaboration, branching, commits, Pull Requests and code reviews.
-
+The GLAM.exe website was developed as part of our group assignment. The project demonstrates our understanding of basic website development, Git commands, GitHub collaboration, branching, commits, Pull Requests, code reviews and merge conflict resolution.
 
 ## Individual Reflections
 
@@ -68,9 +107,9 @@ The GLAM.exe website was developed as part of our group assignment. The project 
 Throughout this project, I was responsible for creating the About page and the Y2K fashion gallery for our GLAM.exe website. I learned how to use Git and GitHub to manage my work, create branches, commit changes, push my work and submit Pull Requests for review. I also learned the importance of teamwork and communication when working on the same project. One challenge I faced was making sure my changes were properly reviewed and merged without affecting the website. Overall, this project helped me improve my coding skills and understand how Git collaboration works in a team.
 
 ### Qistina
-Throughout this project, I gained valuable experience in developing a website using HTML and CSS, as well as collaborating with my group members through Git and GitHub. My main responsibility was designing and developing the homepage, where I worked on its layout, styling and overall appearance. One of the challenges I faced was managing Git branches, pushing changes and creating pull requests. I also encountered a merge conflict in the `style.css` file, which taught me how to identify and resolve conflicting changes. Overall, this project improved my technical skills, problem-solving abilities and understanding of teamwork. It also made me more confident in using VS Code, Git and GitHub for collaborative development
+
+Throughout this project, I gained valuable experience in developing a website using HTML and CSS, as well as collaborating with my group members through Git and GitHub. My main responsibility was designing and developing the homepage, where I worked on its layout, styling and overall appearance. One of the challenges I faced was managing Git branches, pushing changes and creating Pull Requests. I also encountered a merge conflict in the `style.css` file, which taught me how to identify and resolve conflicting changes. Overall, this project improved my technical skills, problem-solving abilities and understanding of teamwork. It also made me more confident in using VS Code, Git and GitHub for collaborative development.
 
 ### Zuhairah
-Throughout this project, I contributed by developing the Contact page for GLAM.exe, which included a contact form with name, email and message fields, as well as the group's email and Instagram information. I learned how to use Git and GitHub to collaborate with my teammates by creating branches, committing and pushing changes, submitting Pull Requests, reviewing work and merging approved changes into the main branch. One challenge our team overcame was combining everyone's work from different branches, which we managed by communicating, reviewing changes and resolving merge conflicts. This project improved my understanding of website development, teamwork and version control.
 
-origin/main
+Throughout this project, I contributed by developing the Contact page for GLAM.exe, which included a contact form with name, email and message fields, as well as the group's email and Instagram information. I learned how to use Git and GitHub to collaborate with my teammates by creating branches, committing and pushing changes, submitting Pull Requests, reviewing work and merging approved changes into the main branch. One challenge our team overcame was combining everyone's work from different branches, which we managed by communicating, reviewing changes and resolving merge conflicts. This project improved my understanding of website development, teamwork and version control.
